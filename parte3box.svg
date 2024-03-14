@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="250.5mm"
+   height="507.26529mm"
+   viewBox="0 0 250.5 507.26529"
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   id="svg1"
+   sodipodi:docname="box (3).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.26522387"
+     inkscape:cx="-71.637594"
+     inkscape:cy="804.98034"
+     inkscape:window-width="1440"
+     inkscape:window-height="877"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2" />
+  <g
+     id="svgGroup"
+     stroke-linecap="round"
+     fill-rule="evenodd"
+     font-size="12px"
+     stroke="#000"
+     stroke-width="0.25mm"
+     fill="none"
+     style="fill:none;stroke:#000000;stroke-width:0.25mm"
+     transform="translate(-505.75,-1295.9847)">
+    <path
+       d="m 509,1556 v 46.063 h -3 v 50.625 h 3 v 50.625 h -3 v 50.625 h 3 V 1800 h 46.063 v 3 h 50.625 v -3 h 50.625 v 3 h 50.625 v -3 H 753 v -46.062 h 3 v -50.625 h -3 v -50.625 h 3 v -50.625 h -3 V 1556 h -46.062 v -3 h -50.625 v 3 h -50.625 v -3 h -50.625 v 3 z"
+       id="bottom_outsideCutPath"
+       stroke="#FF0000"
+       stroke-width="0.5"
+       style="stroke:#ff0000;stroke-width:0.5"
+       vector-effect="non-scaling-stroke" />
+    <path
+       d="m 509,1299.2347 v 46.063 h -3 v 50.625 h 3 v 50.625 h -3 v 50.625 h 3 v 46.062 h 46.063 v 3 h 50.625 v -3 h 50.625 v 3 h 50.625 v -3 H 753 v -46.062 h 3 v -50.625 h -3 v -50.625 h 3 v -50.625 h -3 v -46.063 h -46.062 v -3 h -50.625 v 3 h -50.625 v -3 h -50.625 v 3 z"
+       id="path1"
+       stroke="#FF0000"
+       stroke-width="0.5"
+       style="stroke:#ff0000;stroke-width:0.5"
+       vector-effect="non-scaling-stroke" />
+    <g
+       id="g2">
+      <path
+         id="path2"
+         style="fill:#000000;stroke:#c50000;stroke-width:0.499999"
+         d="m 99.992346,99.992346 v 50.502864 l 50.518364,0.031 -0.0155,-50.51836 z m 0.257864,0.257864 h 49.99953 v 50.00005 h -49.99953 z"
+         transform="translate(505.75,1295.9847)" />
+    </g>
+  </g>
+</svg>
